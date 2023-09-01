@@ -1,0 +1,101 @@
+.reviews{
+    background-color: white;
+    width: 100%;
+    height: 650px;
+    position: relative;
+}
+.main-text{
+    position: absolute;
+    font-family: 'Lexend', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    left: 430px;
+    top: 100px;
+}
+.prof1,.prof2,.prof3{
+    position: absolute;
+}
+.prof1{
+    top: 225px;
+    left: 210px;
+}
+.prof2{
+    top: 225px;
+    left: 625px;
+}
+.prof3{
+    top: 225px;
+    right:210px;
+}
+.profile-name1,.profile-name2,.profile-name3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    position: absolute;
+}
+.profile-name2{
+    top: 345px;
+    left: 590px;
+}
+.profile-name1{
+    top: 345px;
+    left: 213px;
+}
+.profile-name3{
+    top: 345px;
+    right: 192px;
+}
+.dis1,.dis2,.dis3,.comp1,.comp2,.comp3{
+    position: absolute;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(113, 112, 112);
+    
+}
+.comp2{
+    top: 375px;
+    left: 640px;
+}
+.comp1{
+    top: 375px;
+    left: 230px;
+}
+.comp3{
+    top: 375px;
+    right: 217px;
+}
+.dis1{
+    width: 400px;
+    text-align: left;
+    top: 450px;
+    left: 70px;
+}
+.dis2{
+    width: 400px;
+    text-align: left;
+    top: 450px;
+    left: 485px;
+}
+.dis3{
+    width: 400px;
+    text-align: left;
+    top: 450px;
+    right: 50px;
+
+}
+.star1,.star2,.star3{
+    position: absolute;
+    top: 400px;
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgb(246, 190, 36)
+    
+}
+.star1{
+    left: 190px;
+}
+.star2{
+    left: 615px;
+}
+.star3{
+    right: 190px;
+}
